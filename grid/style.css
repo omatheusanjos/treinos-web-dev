@@ -109,7 +109,7 @@ main {
 
 
 #mosaico1 {
-    background-image: url('assets/pexels-junior-teixeira-2047905.jpg');
+    background-image: url("assets/pexels-junior-teixeira-2047905.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;

@@ -109,7 +109,7 @@ main {
 
 
 #mosaico1 {
-    background-image: url('/Grid/assets/pexels-junior-teixeira-2047905.jpg');
+    background-image: url('/grid/assets/pexels-junior-teixeira-2047905.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -117,21 +117,21 @@ main {
 
 }
 #mosaico2 {
-    background-image: url('/Grid/assets/pexels-tyler-lastovich-1671643.jpg');
+    background-image: url('/grid/assets/pexels-tyler-lastovich-1671643.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
 
 }
 #mosaico3 {
-    background-image: url('/Grid/assets/pexels-maurício-mascaro-376533.jpg');
+    background-image: url('/grid/assets/pexels-maurício-mascaro-376533.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 
 }
 #mosaico4 {
-    background-image: url('/Grid/assets/pexels-rakicevic-nenad-753994.jpg');
+    background-image: url('/grid/assets/pexels-rakicevic-nenad-753994.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -139,7 +139,7 @@ main {
 
 }
 #mosaico5 {
-    background-image: url('/Grid/assets/pexels-rakicevic-nenad-1274260.jpg');
+    background-image: url('/grid/assets/pexels-rakicevic-nenad-1274260.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -147,7 +147,7 @@ main {
 
 }
 #mosaico6 {
-    background-image: url('/Grid/assets/pexels-dương-nhân-1529881.jpg');
+    background-image: url('/grid/assets/pexels-dương-nhân-1529881.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
